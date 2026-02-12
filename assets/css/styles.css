@@ -1,2 +1,16 @@
 /* styles.css */
+:root {
+/* CSS HEX */
+--deep-teal: #5a7d7cff;
+--lavender: #dadff7ff;
+--jet-black: #232c33ff;
+--powder-blue: #a0c1d1ff;
+--pale-slate: #b5b2c2ff;
+}
 
+html {
+background-color: var(--lavender);
+}
+h1 {
+  color: var(--deep-teal);
+}
