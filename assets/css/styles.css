@@ -8,7 +8,7 @@
 --pale-slate: #b5b2c2ff;
 }
 
-html {
+body {
 background-color: var(--lavender);
 }
 h1 {
