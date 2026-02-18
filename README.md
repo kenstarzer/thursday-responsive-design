@@ -1,6 +1,6 @@
-# Website Template
+# Bootstrap Grid Responsive Template
 
-Fork and use this template repo (a.k.a. "boilerplate") for any web project
+
 
 ## Use this repo
 
