@@ -14,3 +14,7 @@ background-color: var(--lavender);
 h1 {
   color: var(--deep-teal);
 }
+
+.col {
+  border: 1px solid red;
+}
